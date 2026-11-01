@@ -55,6 +55,7 @@ For a more dynamic composition, make a second version using `slow-push-in` and c
 - [Camera vocabulary](SHOT-VOCABULARY.md): movement versus framing, with common contradictions.
 - [Failure checklist](FAILURE-CHECKLIST.md): symptoms, possible causes and single-change experiments.
 - [Review worksheet](REVIEW-WORKSHEET.md): record what actually happened rather than claiming a prompt worked.
+- [Last-frame bug report](LAST-FRAME-BUG-REPORT.md): preserve a clip, PNG and timing notes for reproduction.
 - [Offline renderer](promptkit.py) and its validation tests.
 
 ## Further reading and affiliation
